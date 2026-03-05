@@ -1,6 +1,6 @@
 
 <!--
-- 👋 Hi, I’m @JannaPlata 
+- 👋 Hi, I’m @Janna.. 
 - 👀 I’m interested in Programming👩‍💻
 - 🌱 I’m currently learning Java and other languages
 - 📍My technical skills are Java
@@ -11,7 +11,7 @@
 
 
 
-- 👋 Hi, I’m @JannaPlata
+- 👋 Hi, I’m @Janna.. 
 - 👀 I’m interested in Programming 👩‍💻
 - 🌱 I’m currently learning Java and other languages
 - 📍My technical skills are: Java, Html and Css
